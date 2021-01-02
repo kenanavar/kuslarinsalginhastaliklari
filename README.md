@@ -1,2 +1,4 @@
-Canım Özgecim bana içerik lazım.
-sayfa hazır içerik gönderirsen koyabılırm
+KUŞLARIN YAYDIĞI SALGIN HASTALIKLAR NELERDİR<br>
+<br>
+Kuş gribi, kanatlılarda yüksek mortalite ile seyreden bulaşıcı bir hastalıktır. İlk olarak 1878 yılında tanımlanan hastalığa “kanatlı-kümes vebası” ismi verilmiştir. Kitlesel ölümlere sebep olan bir zoonuzdur. Yani hayvandan insanlara bulaşan bir hastalıktır. Göçmen su kuşları, virüsü bağırsaklarında taşırlar ve genellikle hastalanmazlar veya hastalığı hafifçe geçirirler. Salya , burun akıntısı ve dışkılarıyla doğrudan veya bu salgılarla kirletilen materyalle temas eden  evcil kanatlı hayvanlar hastalığa yakalanırlar. Kontomine gübrenin 1 gramı 1 milyon kuşu enfekte edecek kadar virüs partikülü içerir. Virüs soğuk gübrede en az 3 ay, 22 derecede 4 gün,  0 derecede 30 gün etkinliğini  korur, 56 derecede 3 saat, 60 derecede 30 dakikada etkinliğini yitirir. Kanatlı hayvanlarda kuluçka süresi 3-5 gündür ve %100 ölümcüldür. İnsana bulaş ise hasta kanatlılara, hasta kanatlıların çıkartılarına direkt temasla veya hasta kanatlıların çıkartılarının el ile ağız ve buruna bulaştırlması şeklinde olur.
+
